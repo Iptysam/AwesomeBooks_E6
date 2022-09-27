@@ -2,7 +2,7 @@ body {
   text-align: center;
 }
 
-.main-container {
+.maincontainer {
   max-width: 100%;
   margin: 0 auto;
 }
@@ -76,7 +76,7 @@ nav {
   font-size: large;
 }
 
-.logo {
+.Logo {
   margin: 0;
 }
 
