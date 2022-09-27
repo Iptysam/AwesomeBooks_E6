@@ -8,7 +8,7 @@ class createBookElement {
   }
 
   static addBookToList(book) {
-    const list = document.querySelector('#myBooks');
+    const list = document.querySelector('#book_list');
 
     const bookDisplay = document.createElement('div');
     bookDisplay.className = 'bookList1';
