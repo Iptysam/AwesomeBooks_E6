@@ -50,7 +50,6 @@ const contactLink = document.querySelector('.contactlink');
 const contactInfo = document.querySelector('.contact_info');
 
 listBtn.addEventListener('click', () => {
-  console.log('bookList');
   bookList.style.display = 'block';
   formContainer.style.display = 'none';
   contactInfo.style.display = 'none';
