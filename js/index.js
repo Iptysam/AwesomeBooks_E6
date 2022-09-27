@@ -1,7 +1,7 @@
-import { DateTime } from './modules/luxon.js';
+import { DateTime } from '../modules/luxon.js';
 import BookObject from '../modules/main.js';
-import ClassLocalStorage from './modules/addnew.js';
-import createBookElement from './modules/ui.js';
+import ClassLocalStorage from '../modules/addnew.js';
+import createBookElement from '../modules/ui.js';
 
 // Define the current local time
 const currentDate = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
@@ -11,7 +11,7 @@ document.getElementById('current_date').innerHTML = currentDate;
 document.addEventListener('DOMContentLoaded', createBookElement.displayBooks);
 
 // Event: Add a Book
-document.querySelector('.book_form').addEventListener('submit', (e) => {
+document.querySelector('#book_form').addEventListener('submit', (e) => {
   // Prevent actual submit
   e.preventDefault();
 
@@ -50,6 +50,7 @@ const contactLink = document.querySelector('.contactlink');
 const contactInfo = document.querySelector('.contact_info');
 
 listBtn.addEventListener('click', () => {
+  console.log('bookList');
   bookList.style.display = 'block';
   formContainer.style.display = 'none';
   contactInfo.style.display = 'none';
