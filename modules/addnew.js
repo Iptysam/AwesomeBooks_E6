@@ -8,7 +8,7 @@ class ClassLocalStorage {
     }
     return books;
   }
-  
+
   static addBook(book) {
     const books = ClassLocalStorage.getBooks();
     books.push(book);
@@ -26,6 +26,6 @@ class ClassLocalStorage {
 
     localStorage.setItem('books', JSON.stringify(books));
   }
-  }
+}
 
 export default ClassLocalStorage;
