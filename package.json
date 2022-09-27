@@ -1,7 +1,7 @@
 {
-    "name": "Awesome-books",
+    "name": "AwesomeBooks_E6",
     "version": "1.0.0",
-    "description": "![](https://github.com/tonnymuchui/Awesome-books) # Portfolio",
+    "description": "![](https://github.com/Iptysam/AwesomeBooks_E6) # Portfolio",
     "main": "index.js",
     "dependencies": {},
     "devDependencies": {
@@ -20,14 +20,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/tonnymuchui/Awesome-books"
+      "url": "git+https://github.com/Iptysam/AwesomeBooks_E6"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/tonnymuchui/Awesome-books/issues"
+      "url": "https://github.com/Iptysam/AwesomeBooks_E6/issues"
     },
-    "homepage": "https://github.com/tonnymuchui/Awesome-books#readme"
+    "homepage": "https://github.com/Iptysam/AwesomeBooks_E6#readme"
   }
   
